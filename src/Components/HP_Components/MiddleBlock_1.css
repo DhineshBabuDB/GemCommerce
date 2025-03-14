@@ -1,0 +1,35 @@
+.MiddleBlock_1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0rem;
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.MiddleBlock_1_right{
+    margin: 5rem;
+}
+.MiddleBlock_1_right img{
+    width: 60vh;
+}
+
+.KeyPoints_Percentage{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.KeyPoints_Percentage span{
+    color: rgb(238, 111, 75);
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 0 2rem 0 0;
+}
+
+.Nutrition_Button button{
+    background-color: rgb(238, 111, 75);
+    border-radius: 8px;
+    color: white;
+}
